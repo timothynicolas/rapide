@@ -1,4 +1,5 @@
 <?php 
-    echo"Version 1";
+    echo"Navbar";
+    echo"Footer";
    
 ?>
